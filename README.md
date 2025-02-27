@@ -56,11 +56,6 @@ public class CustomProduct : IProduct {
 }
 ```
 
-### Running Tests
-Execute tests using **NUnit**:
-```sh
-dotnet test
-```
 
 ## Unit Tests
 The repository includes test cases to validate the implementation:
