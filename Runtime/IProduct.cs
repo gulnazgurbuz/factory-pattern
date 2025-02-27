@@ -1,6 +1,5 @@
-using UnityEngine;
-
-public class IProduct
-{
-    
+namespace GG.DesignPatterns.FactoryPattern {
+    public interface IProduct {
+        void Initialize();
+    }
 }
